@@ -1,0 +1,24 @@
+---
+title: "Taxonomic complexity in eyebrights (*Euphrasia* L., Orobanchaceae) and the British flora"
+author: "Max Brown"
+description: "The University of Edinburgh"
+date: 2020
+lang: en
+geometry:
+    - top=3cm
+    - bottom=4cm
+    - left=2.5cm
+    - right=2.5cm
+linestretch: 1.5
+classoption: chapterprefix, headings=normal
+top-level-division: chapter
+numbersections: true
+toc: true
+toc-depth: 3
+link-citations: true
+reference-section-title: "Bibliography"
+include-before:
+- '`\newpage{}`{=latex}'
+nocite: |
+    @JonesetalInReview
+---

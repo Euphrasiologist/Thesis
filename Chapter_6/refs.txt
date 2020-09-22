@@ -1,0 +1,61 @@
+@article{Breese1959a,
+   author = {Breese, E.},
+   title = {Selection for differing degrees of out-breeding in Nicotiana rustica.},
+   journal = {Annals of Botany},
+   volume = {23},
+   pages = {331-344},
+   year = {1959},
+   type = {Journal Article}
+}
+
+@Manual{,
+  title = {RcmdrMisc: R Commander Miscellaneous Functions},
+  author = {Fox, J.},
+  year = {2020},
+  note = {R package version 2.7-0},
+  url = {https://CRAN.R-project.org/package=RcmdrMisc}
+}
+
+@article{Koch1891a,
+   author = {Koch, L.},
+   title = {Zur Entwicklungsgeschichte der Rhinanthaceen (II Euphrasia officinalis L.)},
+   journal = {Jahrbücher für Wissencshafltiche Botanik},
+   volume = {22},
+   pages = {1-34},
+   year = {1959},
+   type = {Journal Article}
+}
+
+@Manual{,
+  title = {emmeans: Estimated Marginal Means, aka Least-Squares Means},
+  author = {Lenth, R.},
+  year = {2020},
+  note = {R package version 1.4.4},
+  url = {https://CRAN.R-project.org/package=emmeans}
+}
+
+@phdthesis{Stone2013a,
+  author       = {Stone, H.}, 
+  title        = {Evolution and conservation of tetraploid Euphrasia L. in Britain},
+  school       = {University of Edinburgh},
+  year         = {2013}
+}
+
+@article{Wettstein1895a,
+   author = {Wettstein, R.},
+   title = {Der Saison-Dimorphismus als Ausgangspunkt fiir die Bildung neuer Arten im Pflanzenreiche},
+   journal = {Berichte der Deutschen Botanischen Gesellschaft.},
+   volume = {13},
+   pages = {303-313},
+   year = {1895},
+   type = {Journal Article}
+}
+
+@Book{Wickham2016a,
+    author = {Wickham, H.},
+    title = {ggplot2: Elegant Graphics for Data Analysis},
+    publisher = {Springer-Verlag New York},
+    year = {2016},
+    isbn = {978-3-319-24277-4},
+    url = {https://ggplot2.tidyverse.org}
+}

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-pandoc intro.md -t latex -o intro.pdf --bibliography /Users/mbrown/OneDrive\ -\ University\ of\ Edinburgh/Thesis/EndnoteLib2.bib
+pandoc introduction.md -t latex -o introduction.pdf --bibliography ../StitchThesis2.bib -H ../disable_float.tex
