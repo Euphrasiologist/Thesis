@@ -1,9 +1,14 @@
 ---
+geometry:
+    - top=3cm
+    - bottom=4cm
+    - left=2.5cm
+    - right=2.5cm
 include-before:
 - '`\newpage{}`{=latex}'
 ---
 
-\setcounter{page}{146}
+\setcounter{page}{145}
 
 # Appendices
 
@@ -11,7 +16,7 @@ include-before:
 
 Figure 1: The distribution of ploidy levels across the British and Irish angiosperms in the four families with the highest number of species. Shown are Rosaceae, Poaceae, Asteraceae and Fabaceae. Each family has distinct distributions of ploidy levels.
 
-![](./Appendices/CH2SF1.pdf){ width=120% }
+![](./Appendices/CH2SF1.pdf){ width=100% }
 
 \newpage{}
 
@@ -66,7 +71,7 @@ Figure 6: Predicted fit of probability of hybridisation given branch length betw
 \newpage{}
 
 \blscape
-Table 2: Model 1: Probability of hybridisation with genetic distance, hectads shared and life history of parental species as fixed covariates. The posterior mean of the distribution of each coefficient is given, along with lower and upper 95% Credible Intervals. The p-value (pMCMC) is also reported and given in bold where significant. Annual-perennial and perennial-perennial levels are jointly tested using a Wald test in the main text.
+Table 2: Model 1: Probability of hybridisation on the probit scale with genetic distance, hectads shared and life history of parental species as fixed covariates. The posterior mean of the distribution of each coefficient is given, along with lower and upper 95% Credible Intervals. The p-value (pMCMC) is also reported and given in bold where significant. Annual-perennial and perennial-perennial levels are jointly tested using a Wald test in the main text.
 
 Covariate|Posterior mean|l-95% CI|u-95% CI|Effective sample size|pMCMC
 |---|---|---|---|---|---|
@@ -76,22 +81,21 @@ Hectads shared between species pairs|0.001|0.0007|0.0012|1000|0.0010
 Annual-perennial parent pair|-0.12|-0.97|0.66|1000|0.76
 Perennial-perennial parent pair|0.64|-0.25|1.58|1000|0.16
 Genus size|-0.0014|-0.041|0.031|1107|0.92
-\elscape
-\newpage{}
 
-Table 3: Phylogenetic signal of probability of hybridisation and the species variance independent of phylogenetic effects. 95% Credible Intervals of the variances are also presented. See methods for calculation.
+Table 3: Phylogenetic signal of probability of hybridisation and the species variance independent of phylogenetic effects on the probit scale. 95% Credible Intervals of the variances are also presented. See Methods in Chapter 3 for calculation.
 
 Variance Component|Posterior Mode|Lower Credible Interval|Upper Credible Interval
-|---|---|---|---|
+|------|---|---|---|
 Model 1 Phylogenetic Variance|0.62|0.32|0.77
 Model 1 Species Variance|0.33|0.18|0.58
 Model 2 Phylogenetic Variance|0.61|0.30|0.82
 Model 2 Species Variance|0.34|0.084|0.44
+\elscape
 
 \newpage{}
 
 \blscape
-Table 4: Model 2: Probability of hybridisation with ploidy, genetic distance, hectads shared and life history of parental species as covariates. The posterior mean of the distribution of each coefficient is given, along with lower and upper 95% Credible Intervals. The p-value (pMCMC) is also reported and given in bold where significant. 
+Table 4: Model 2: Probability of hybridisation on the probit scale with ploidy, genetic distance, hectads shared and life history of parental species as covariates. The posterior mean of the distribution of each coefficient is given, along with lower and upper 95% Credible Intervals. The p-value (pMCMC) is also reported and given in bold where significant. 
 
 Covariate|Posterior mean|l-95% CI|u-95% CI|Effective sample size|pMCMC
 |---|---|---|---|---|---|
@@ -107,7 +111,7 @@ Genus size|-0.029|-0.084|0.031|621|0.32
 
 ## Appendix 3: Chapter 4
 
-Figure 7: Distributions of parameters fitted to the models with constant gene flow (blue), secondary contact (green), and without gene flow (grey).
+Figure 7: Distributions of parameters fitted to the models with constant gene flow (blue), secondary contact (green), and without gene flow (grey) in the demographic simulation software, $\delta{a}\delta{I}$. The model with historic gene flow (orange) had poor AIC values, and so is omitted here.
 
 ![](./Appendices/CH4SF1.pdf){ width=100% }
 
@@ -138,7 +142,7 @@ ITS5|Reverse|GGAAGTAAAAGTCGTAACAAGG|-||
 \blscape
 ## Appendix 4: Chapter 6
 
-Table 7: Host species used in the common garden experiment. Commercial seed stocks list the original collection where known.
+Table 7: Host species used in the common garden experiment in Chapter 6. The species along with the taxonomic family they belong to, their ecological functional group and the source of the seeds are also given. Commercial seed stocks list the original collection where known.
 
 Common name|Species name|Family|Functional group (informal)|Seed source
 |---|---|---|---|---|
@@ -188,7 +192,7 @@ E4E0143|*E. tetraquetra* x *E. confusa*|Ballyteige Burrow, Co Wexford, Ireland|5
 \newpage{}
 
 \blscape
-Table 9: Summary of trait values for many *Euphrasia* species and hybrids grown on a clover host. Values are means ±1 SE.  Length measurements are in millimeters. Note: Date of first flower not recorded.
+Table 9: Summary of trait values for many *Euphrasia* species and hybrids grown on a clover host (i.e. the species differences experiment). Values are means ±1 SE.  Length measurements are in millimeters. Note: Date of first flower not recorded.
 
 Taxon|Corolla length|Height|Internode ratio|Julian days to flower|Lower floral leaf teeth|Nodes to flower|Number of branches
 |---|---|---|---|---|---|---|---|
@@ -207,11 +211,9 @@ Taxon|Corolla length|Height|Internode ratio|Julian days to flower|Lower floral l
 
 \newpage{}
 
-Figure 8: Principal component analysis of morphological variation of *Euphrasia* in a common garden. Panels show (A) five species and six hybrids grown with a clover host, 
-(B) five species grown with a clover host, (C) *E. arctica* with nine host treatments. Points represent individuals, and ellipses represent the standard error of the (weighted) 
-average of scores.
+Figure 8: Principal component analysis of morphological variation of *Euphrasia* in a common garden. Panels show (A) five species and six hybrids grown with a single clover host, (B) five species grown with a clover host omitting hybrids, and (C) *E. arctica* with nine host treatments. Points represent individuals, and ellipses represent the standard error of the (weighted) average of scores.
 
-![](./Appendices/CH5SF4.pdf){ width=130% }
+![](./Appendices/CH5SF4.pdf){ width=100% }
 
 \newpage{}
 
@@ -254,7 +256,7 @@ Proportion of variance|0.518|0.185|0.122|0.075|0.049
 \newpage{}
 
 \blscape
-Figure 9: Pairwise differences in trait value of *Euphrasia* species grown with clover in a common garden experiment. Tukey comparisons are presented between each pair of species, with significant comparisons shown in bold. \*\*\* p < 0.001, \*\* p < 0.01, \* p < 0.05.
+Figure 9: Pairwise differences in trait value of *Euphrasia* species grown with clover in a common garden experiment. Tukey comparisons are presented between each pair of species, with significant comparisons shown in bold. Point estimates are the mean difference of the comparison, and error bars are +/- one standard error, calculated from the species differences model using the emmeans R package. \*\*\* p < 0.001, \*\* p < 0.01, \* p < 0.05.
 
 ![](./Appendices/CH5SF6.pdf)
 \elscape
@@ -283,7 +285,7 @@ No host|5.9 ± 0.3|5.3 ± 0.2|11.2 ± 1.1|2.8 ± 0.2|241.3 ± 7.9|1.9 ± 0.3|9.9
 Table 12: Comparison of *E. arctica* traits in the phenotypic plasticity common garden experiment. Tukey comparisons are presented between *E. arctica* traits with two different host treatments. \*\*\* p < 0.001, \*\* p < 0.01, \* p < 0.05.
 
 |Host 1|Host 2|Corolla length|Height|Internode ratio|Julian days to flower|Nodes to flower|Number of leaf teeth|
-|---|---|---|---|---|---|---|---|
+|------|------|---|---|---|---|---|---|
 |*Arabidopsis thaliana*|No host|1.065\*|0.49\*|0.102|-0.178\*\*\*|-0.116|0.508|
 |*Equisetum arvense*|No host|0.946\*|0.304|0.041|-0.112\*\*\*|-0.066|0.212|
 |*Festuca rubra*|No host|1.04\*|0.529\*\*|0.073|-0.112\*\*\*|-0.034|0.397|

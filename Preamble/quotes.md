@@ -4,7 +4,7 @@
 
 \begin{center}
 \vspace*{0.8\textheight}
-Cover image: A purple flowered variant of \\ \emph{Euphrasia foulaensis} on Fair Isle, August 2018
+Cover image: A purple flowered variant of \\ \emph{Euphrasia foulaensis} on Fair Isle, August 2018. Taken by author.
 \end{center}
 
 \pagenumbering{roman}
