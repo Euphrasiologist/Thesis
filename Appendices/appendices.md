@@ -282,7 +282,7 @@ No host|5.9 ± 0.3|5.3 ± 0.2|11.2 ± 1.1|2.8 ± 0.2|241.3 ± 7.9|1.9 ± 0.3|9.9
 \newpage{}
 
 \blscape
-Table 12: Comparison of *E. arctica* traits in the phenotypic plasticity common garden experiment. Tukey comparisons are presented between *E. arctica* traits with two different host treatments. \*\*\* p < 0.001, \*\* p < 0.01, \* p < 0.05.
+Table 12: Comparison of *E. arctica* traits in the phenotypic plasticity common garden experiment. Tukey comparisons are presented between *E. arctica* traits with two different host treatments. Point estimates are the mean difference of the comparison, calculated from the phenotypic plasticity model using the emmeans R package. \*\*\* p < 0.001, \*\* p < 0.01, \* p < 0.05.
 
 |Host 1|Host 2|Corolla length|Height|Internode ratio|Julian days to flower|Nodes to flower|Number of leaf teeth|
 |------|------|---|---|---|---|---|---|
@@ -326,7 +326,7 @@ Table 12: Comparison of *E. arctica* traits in the phenotypic plasticity common 
 
 \newpage{}
 
-Table 13: Analysis of deviance for each trait in the phenotypic plasticity experiment with *E. arctica* grown with many different hosts, assuming a Poisson distribution. For each model, we report the change in degrees of freedom (df), deviance, residual degrees of freedom, residual deviance, and p-value generated from the $\chi^{2}$ distribution. Factor host is compared to the intercept model where no factors are fitted.
+Table 13: Analysis of deviance for each trait in the phenotypic plasticity experiment with *E. arctica* grown with many different hosts, assuming a Poisson distribution. For each model, we report the change in degrees of freedom (df), deviance, residual degrees of freedom, residual deviance, and p-value generated from the $\chi^{2}$ distribution. Factor host, where the model includes all host species, is compared to the intercept model where no hosts are fitted.
 
 Trait|Factor|df|Deviance|Resid. df|Resid. Dev|Pr(> $\chi^{2}$ )|
 |---|---|---|---|---|---|---|
@@ -339,8 +339,8 @@ Trait|Factor|df|Deviance|Resid. df|Resid. Dev|Pr(> $\chi^{2}$ )|
 
 Table 14: ANOVAs for traits measured in the phenotypic plasticity experiment with *E. arctica* grown with many different hosts, assuming Gaussian distributed residuals. For each model, we report the degrees of freedom (df), sums of squares (SS), mean squares (MS), F-statistic, and p-value.
 
-Trait|df|SS|MS|F|p
-|---|---|---|---|---|---|
+Trait|Factor|df|SS|MS|F|p
+|---|---|---|---|---|---|---|
 Corolla length|Host|8|49.469|6.184|9.854565|3.00E-11
 ||Residuals|173|108.555|0.6275||		
 Height|Host|8|27.021|3.378|23.139|2.52E-24
@@ -369,8 +369,7 @@ Table 15: Summary of generalised linear models for the phenotypic plasticity exp
 \newpage{}
 
 \blscape
-Figure 10: Relationship between growth-related traits and end of season height for *E. arctica* grown with eight hosts and no host. (A) Height at first
-flowering, (B) height 6-weeks after germination, (C) Julian days to flower, (D) number of branches. Length measurements are reported in mm.
+Figure 10: Relationship between growth-related traits and end of season height for *E. arctica* grown with eight hosts and no host. (A) height at first flowering, (B) height 6-weeks after germination, (C) Julian days to flower, (D) number of branches. Length measurements are reported in mm.
 
 ![](./Appendices/CH5SF12.pdf){ width=110% }
 \elscape
@@ -505,17 +504,17 @@ Host species|Authority|Source/Location|Plant status
 
 \newpage{}
 
-Table 19: Euphrasia species collections across both experiments.
+Table 19: Euphrasia species collections across both experiments in Chapter 7.
 
 Experiment|Euphrasia species|Location|Grid Reference
 |---|---|---|---|
-1|*E.arctica*|Inverkeithing, Scotland|NT 1389 82312
-2|*E.anglica*|(A1766)|Cheddar, Somerset|ST 47731 54156
-2|*E.vigursii*|(V1761)|St Agnes Head, Cornwall|SW 5899 4328
-2|*E.tetraquetra*|(T1761)|St Agnes Head, Cornwall|SW 5899 4328
-2|*E.micrantha*|(M1767)|Borrowdale, Cumbria|NY 2468 1631
-2|*E.micrantha*|(M1768)|Alness, Scotland|NH 5521 7126
-2|*E.micrantha*|(M1769)|Orkney, Scotland|HY 321 055
+1|*E. arctica*|Inverkeithing, Scotland|NT 1389 82312
+2|*E. anglica*|(A1766)|Cheddar, Somerset|ST 47731 54156
+2|*E. vigursii*|(V1761)|St Agnes Head, Cornwall|SW 5899 4328
+2|*E. tetraquetra*|(T1761)|St Agnes Head, Cornwall|SW 5899 4328
+2|*E. micrantha*|(M1767)|Borrowdale, Cumbria|NY 2468 1631
+2|*E. micrantha*|(M1768)|Alness, Scotland|NH 5521 7126
+2|*E. micrantha*|(M1769)|Orkney, Scotland|HY 321 055
 
 \newpage{}
 
@@ -527,11 +526,11 @@ Covariates|Posterior mean|l-95% CI|u-95% CI|Effective sample size|pMCMC
 (Intercept)|3.0348|1.8630|4.1519|1000|<0.001
 Time|-1.0533|-1.1164|-0.9912|1000|<0.001
 AnnPerAnn|0.1390|-0.2489|0.6076|1000|0.5300
-Normalized transplant date|-0.0164|-0.0213|-0.0117|1000|<0.001
-Functional_groupFern|-0.2583|-1.5117|1.0171|1000|0.6520
-Functional_groupForb|-0.3076|-0.9687|0.3844|1000|0.3700
-Functional_groupLegume|-0.0828|-1.0457|0.7646|1000|0.8500
-Functional_groupWoody|-0.6675|-1.4986|0.1819|1000|0.0980
+Normalised transplant date|-0.0164|-0.0213|-0.0117|1000|<0.001
+Functional group fern|-0.2583|-1.5117|1.0171|1000|0.6520
+Functional group forb|-0.3076|-0.9687|0.3844|1000|0.3700
+Functional group legume|-0.0828|-1.0457|0.7646|1000|0.8500
+Functional group woody|-0.6675|-1.4986|0.1819|1000|0.0980
 \elscape
 
 \newpage{}
@@ -543,11 +542,11 @@ Covariates|Posterior mean|l-95% CI|u-95% CI|Effective sample size|pMCMC
 |---|---|---|---|---|---|
 (Intercept)|4.6197|4.1765|5.0536|1000|<0.001
 AnnPerAnn|-0.1380|-0.2703|0.0043|1188|0.0560
-Functional_groupFern|-0.1127|-0.5410|0.3556|1000|0.6000
-Functional_groupForb|-0.0879|-0.3087|0.1793|1106|0.3780
-Functional_groupLegume|-0.0650|-0.3307|0.3032|860.9|0.6160
-Functional_groupWoody|0.0991|-0.2964|0.4466|1000|0.5520
-Normalized transplant date|0.0034|0.0008|0.0060|1000|0.0160
+Functional group fern|-0.1127|-0.5410|0.3556|1000|0.6000
+Functional group forb|-0.0879|-0.3087|0.1793|1106|0.3780
+Functional group legume|-0.0650|-0.3307|0.3032|860.9|0.6160
+Functional group woody|0.0991|-0.2964|0.4466|1000|0.5520
+Normalised transplant date|0.0034|0.0008|0.0060|1000|0.0160
 \elscape
 
 \newpage{}
@@ -561,11 +560,11 @@ Covariates|Posterior mean|l-95% CI|u-95% CI|Effective sample size|pMCMC
 Time3|2.3713|1.5862|3.2031|773.2|<0.001
 Time4|3.0630|2.1378|3.9166|1000|<0.001
 AnnPerAnn|0.7872|-1.2385|2.8500|1000|0.4460
-Functional_groupFern|-4.3612|-16.8977|6.6709|789.8|0.3960
-Functional_groupForb|-2.3178|-9.4309|3.7584|793.8|0.4420
-Functional_groupLegume|-2.3657|-10.7235|5.1473|756.9|0.5760
-Functional_groupWoody|-7.6673|-15.5032|-1.0839|549.4|0.0180
-Normalized transplant date|-0.0760|-0.0919|-0.0625|1000|<0.001
+Functional group fern|-4.3612|-16.8977|6.6709|789.8|0.3960
+Functional group forb|-2.3178|-9.4309|3.7584|793.8|0.4420
+Functional group legume|-2.3657|-10.7235|5.1473|756.9|0.5760
+Functional group woody|-7.6673|-15.5032|-1.0839|549.4|0.0180
+Normalised transplant date|-0.0760|-0.0919|-0.0625|1000|<0.001
 Time3:AnnPerAnn|-0.9448|-2.0965|0.1002|1000|0.0920
 Time4:AnnPerAnn|-2.3383|-3.6057|-0.8897|1000|0.0040
 \elscape
@@ -579,11 +578,11 @@ Covariates|Posterior mean|l-95% CI|u-95% CI|Effective sample size|pMCMC
 |---|---|---|---|---|---|
 (Intercept)|-0.4637|-9.8823|9.4058|1093|0.9240
 AnnPerAnn|-0.3610|-2.9028|2.1730|886.5|0.7720
-Functional_groupFern|-3.6600|-15.1134|6.8501|1000|0.4660
-Functional_groupForb|-2.9965|-8.8016|2.1653|1097|0.2340
-Functional_groupLegume|-2.0488|-9.1675|4.6899|1000|0.5500
-Functional_groupWoody|-7.5786|-14.1020|-1.0165|633.3|0.0100
-Normalized transplant date|-0.0762|-0.0945|-0.0570|1000|<0.001
+Functional group fern|-3.6600|-15.1134|6.8501|1000|0.4660
+Functional group forb|-2.9965|-8.8016|2.1653|1097|0.2340
+Functional group legume|-2.0488|-9.1675|4.6899|1000|0.5500
+Functional group woody|-7.5786|-14.1020|-1.0165|633.3|0.0100
+Normalised transplant date|-0.0762|-0.0945|-0.0570|1000|<0.001
 \elscape
 
 \newpage{}
@@ -594,10 +593,10 @@ Table 24: Model output from MCMCglmm for the number of cumulative reproductive n
 Covariates|Posterior mean|l-95% CI|u-95% CI|Effective sample size|pMCMC
 |---|---|---|---|---|---|
 (Intercept)|1.7842|1.2210|2.2714|787.7|0.0010
-Euphrasia micrantha|-1.2795|-1.7479|-0.8284|1000|0.0010
-Euphrasia tetraquetra|-0.3702|-0.8160|-0.0076|873.2|0.0620
-Euphrasia vigursii|-0.2457|-0.7758|0.2138|1000|0.3340
+*Euphrasia micrantha*|-1.2795|-1.7479|-0.8284|1000|0.0010
+*Euphrasia tetraquetra*|-0.3702|-0.8160|-0.0076|873.2|0.0620
+*Euphrasia vigursii*|-0.2457|-0.7758|0.2138|1000|0.3340
 Population: M1767|0.3269|-0.2098|0.9299|846.7|0.2760
 Population: M1768|0.7931|0.4788|1.0699|1000|0.0010
-Normalized transplant date|0.0059|-0.0084|0.0237|1208|0.4820
+Normalised transplant date|0.0059|-0.0084|0.0237|1208|0.4820
 \elscape

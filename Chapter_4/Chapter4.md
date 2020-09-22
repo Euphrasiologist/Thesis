@@ -50,7 +50,7 @@ We carried out demographic model fitting using the package $\delta{a}\delta{I}$ 
 
 ## Results
 
-### Patterns of genetic structure in the ITS1
+### Patterns of genetic structure in ITS1
 
 The 658bp alignment of the ITS1 sequence data included 26 diploid individuals and 36 tetraploid individuals. Eight sequences were removed due to low sequence quality. The chromatograms revealed no evidence of sequence additivity or double peaks, which might have indicated hybrid individuals or retained duplicate copies in the polyploids. The maximum likelihood phylogenetic tree showed two distinct clades of *Euphrasia* that were highly supported (Figure \ref{CH4F1}A). All 58 SNPs in the alignment were fixed between the ploidy groups. Accordingly, an analysis of molecular variance (AMOVA) showed that 99.5% of the ITS1 variation in the samples was explained by ploidy (p < 0.001; Table \ref{CH4T1}A). Limited sampling of four individuals from each species for the *trnL* spacer showed no differences between the species.
 

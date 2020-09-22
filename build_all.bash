@@ -28,6 +28,8 @@ pandoc ./Preamble/summaries.md -o ./Preamble/summaries.pdf
 
 printf "summaries.pdf done...\n"
 
+printf "Preamble made...\n"
+
 # poppler pdfunite here
 
 pdfunite ./Preamble/title.pdf \
@@ -79,5 +81,10 @@ pdftk ./Preamble/preamble.pdf \
 ./MBrown_Thesis_notitle.pdf \
 ./Appendices/appendices.pdf \
 cat output MBrown_Thesis_all.pdf
+
+printf "Removing intermediate files...\n"
+
+rm MBrown_Thesis.pdf
+rm MBrown_Thesis_notitle.pdf
 
 printf "Done!\n"
