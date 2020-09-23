@@ -379,7 +379,7 @@ Figure 10: Relationship between growth-related traits and end of season height f
 \blscape
 Figure 11: Comparison between trait values for wild-collected herbarium specimens and common garden plants of diverse *Euphrasia* species for (A) nodes to flower, (B) corolla length (mm), (C) number of leaf teeth, (D) internode ratio. Points are for *Euphrasia* population means, with bars representing the standard error of measurements.
 
-![](./Appendices/CH5SF13.pdf){ width=150% }
+![](./Appendices/CH5SF13.pdf){ width=110% }
 \elscape
 
 \newpage{}
