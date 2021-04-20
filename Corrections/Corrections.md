@@ -1,17 +1,12 @@
 # My corrections (29.11.20)
 
-1. In the introduction, we request that you explain more fully how the various chapters fit together
-to address the aims. This could take the form of a narrative explanation with questions (and
-hypotheses) at the end of chapter 1.
+1. In the introduction, we request that you explain more fully how the various chapters fit together to address the aims. This could take the form of a narrative explanation with questions (and hypotheses) at the end of chapter 1.
 
 Actions:
 - Narrative explanation and questions after both penultimate paragraphs of Chapter 1.
-- Section 1.2 could state some reproductive barriers?
+Completed.
 
-2. In Chapter 2, we request that you expand on the mechanistic explanations of how polyploidy can
-act as a barrier to both hybrid formation and gene flow. We suggest that these mechanisms can be
-placed into a conceptual framework that also includes isolating mechanisms that do not relate to
-ploidy. This will greatly improve the impact of this important review.
+2. In Chapter 2, we request that you expand on the mechanistic explanations of how polyploidy can act as a barrier to both hybrid formation and gene flow. We suggest that these mechanisms can be placed into a conceptual framework that also includes isolating mechanisms that do not relate to ploidy. This will greatly improve the impact of this important review.
 
 Actions:
 - p21 add a couple of sentences e.g. there are a range of reproductive barriers to cross species hybridisation, 
@@ -23,7 +18,7 @@ barrier, as it is a common phenomenon in a wide range of species.
 3. In Chapter 3, we request that you discuss the fact that the observation of hybridisation is distinct
 from the occurrence of gene flow. This might also include a comparison with the findings of Roux
 et al. (https://doi.org/10.1371/journal.pbio.2000234) who assessed evidence for gene flow in 61
-pairs of animal taxa.
+pairs of animal taxa. 
 
 Actions:
 - p44 After "In this study we characterise... or archaeophytes" hybrids are putative based on 
@@ -44,7 +39,8 @@ DISCUSSION.
 5. We request that Chapter 5 be made an appendix. 
 
 Actions:
-- Cool, just need to work out the references in pandoc...
+- Cool, just need to work out the references in pandoc... I might actually just make all references in situ for this chapter.
+- And also mention this work in one of the growth experiment chapters?
 
 
 6. In chapter 7, we request that you provide an expanded and more nuanced discussion of the
@@ -62,3 +58,16 @@ would be useful here.
 Actions:
 
 - A paragraph to remind the reader of taxonomic complexity and problems of the thesis? Combining all the present evidence, expanding onto wider context and implications. Follow with really(?) new research on chromosome staining/genomics. Add more references
+
+## Comments and typos
+
+iii - people not person
+1.3 - semicolon by Penny-Byfield and Wendel 2014.
+2.1 - Usually produce (not are ususally produce)
+2.3 - rouge bracket - hybrids below)
+4.2 - cross ploidy hybridisation mostly involved dip/tet - should cite chapter 2
+4.3.2 - make clear that plastid was used to see if there were any actual differences.
+4.3.3 - < 1000bp, not >1000bp
+4.3.5 - as above can be removed.
+5.7 - semicolon (as has been done in Rhinanthus;)
+6.4.2 - \ref{} issue.
