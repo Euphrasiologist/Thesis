@@ -51,7 +51,6 @@ pandoc +RTS -K512m -RTS "meta.yaml" \
 "Chapter_4/Chapter4.md" \
 "Chapter_5/Chapter5.md" \
 "Chapter_6/Chapter6.md" \
-"Chapter_7/Chapter7.md" \
 "Discussion/discussion.md" \
 -V geometry:"top=3cm, bottom=4cm, left=2.5cm, right=2.5cm" \
 -H ./disable_float.tex \
