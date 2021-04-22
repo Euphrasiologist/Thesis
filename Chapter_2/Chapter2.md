@@ -8,7 +8,9 @@ Ploidy differences are often considered a strong barrier to hybridisation and in
 
 ## Introduction
 
-Climate change, habitat disturbance and large-scale translocations of species resulting from human activities are increasing contacts between species previously isolated by geographical and ecological barriers, thus raising their potential to hybridise [@RN1465; @RN1466; @RN1467]. Closely related species isolated by prezygotic barriers are more likely to hybridise [@RN902]; however, even species isolated by very strong postzygotic barriers do hybridise in some instances. Polyploidy (see Glossary; Box 1), which is particularly common in plants, creates a very strong postzygotic barrier between species that differ in ploidy (Box 2). For example, many crosses between diploid and tetraploid species either fail to produce a viable zygote or produce poorly formed ones, depending on the direction of the cross. This phenomenon is known as ‘triploid block’ [@RN918]. Should a triploid hybrid form, it is normally either completely or partially sterile, due to formation of malfunctioning gametes containing unbalanced chromosome numbers. On occasion, however, some species differing in ploidy do produce hybrid offspring, triggering gene exchange or possibly the origin of new species via allopolyploidy (Box 3). The importance of such events is not to be underestimated; for example, they have led to the origin of some very recently originated plant species, which are now models for the study of polyploid speciation [@RN902], and also to the origin of some of our most important crop plants, including wheat, sweet potato and sugar cane. Nonetheless, the frequency of cross-ploidy (or interploidy) hybridisation in the wild is a neglected topic, with information related to it scattered through the literature. Here, we bring this information together and emphasise its biological significance.
+Climate change, habitat disturbance and large-scale translocations of species resulting from human activities are increasing contacts between species previously isolated by geographical and ecological barriers, thus raising their potential to hybridise [@RN1465; @RN1466; @RN1467]. There are a range of barriers to cross species hybridisation however, from prezygotic barriers which affect the formation of a zygote (e.g. differing flowering times), to postzygotic barriers that affect the fertility of the hybrid organism (e.g. uneven chromosome complements). Closely related species isolated by prezygotic barriers are more likely to hybridise [@RN902]; however, even species isolated by very strong postzygotic barriers do hybridise in some instances. In plants, polyploidy is a strong reproductive barrier affecting both prezygotic and postzygotic isolation [@RN1115]. Further, as polyploidy is so common in plants, its effect as a reproductive barrier is expected to be widespread and common. 
+
+Polyploidy (see Glossary; Box 1), which is particularly common in plants, creates a very strong postzygotic barrier between species that differ in ploidy (Box 2). For example, many crosses between diploid and tetraploid species either fail to produce a viable zygote or produce poorly formed ones, depending on the direction of the cross. This phenomenon is known as ‘triploid block’ [@RN918]. Should a triploid hybrid form, it is normally either completely or partially sterile, due to formation of malfunctioning gametes containing unbalanced chromosome numbers. On occasion, however, some species differing in ploidy do produce hybrid offspring, triggering gene exchange or possibly the origin of new species via allopolyploidy (Box 3). The importance of such events is not to be underestimated; for example, they have led to the origin of some very recently originated plant species, which are now models for the study of polyploid speciation [@RN902], and also to the origin of some of our most important crop plants, including wheat, sweet potato and sugar cane. Nonetheless, the frequency of cross-ploidy (or interploidy) hybridisation in the wild is a neglected topic, with information related to it scattered through the literature. Here, we bring this information together and emphasise its biological significance.
 
 ---------------------------------------------------------------------------------
 Box 1: Polyploidy                                               
@@ -45,55 +47,55 @@ In contrast to flowering plants, polyploidy in animals and fungi is thought to b
 
 \newpage{}
 
-|Family|Hybridising species|Location|Direction to|Reference|
-|---|------|--|--|---|
-|**Animals**|
-||
-|Bufonidae|*Bufo turanensis* (2n = 2x  =22) x *Bufo pewzowi* (2n = 4x = 44)^allo^|Kyrgyzstan|Diploid|[@Stocketal2010a]|
-|Cyprinidae|*Squalius alburnoides* (2n = 2x = 50; 3n = 75; 4n = 100) x *S. pyrenaicus* (2n = 2x = 50)^allo^|Iberia|-|[@Alvesetal2001a; @CrespoLopez2007a]|
-|Myobatrachidae|*Neobatrachus sutor* (2n = 2x = 24) x *N. kunapalari* (2n = 4x = 48)^auto^|Australia|Tetraploid|[@RN1469]|
-|**Plants**|
-||
-|Aspleniaceae|*Asplenium scolopendrium* (2n = 2x = 72) x *A. adiantum-nigrum* (2n = 4x = 144)|Britain|-|[@RN1007]|
-|Cyatheaceae|*Gymnosphaera denticulata* (2n = 2x = 138) x *G. metteniana* (2n = 4x = 274)^allo^|China|Tetraploid|[@RN1410]|
-|Dryopteridaceae|*Polystichum setiferum* (2n = 2x = 82) x *P. aculeatum* (2n = 4x = 164)|Britain|-|[@RN912]|
-|Asteraceae|*Achillea clypeolata* (2n = 2x = 18) x *A. collina* (2n = 4x = 36)^allo^|Bulgaria|Tetraploid|[@RN1444]|
-|Asteraceae|*Centaurea pseudophrygia* (2n = 2x = 22) x *C. jacea* (2n = 4x = 44)|Czech Republic|-|[@RN1041]|
-|Asteraceae|*Cirsium carniolicum* ssp. *rufescens* (2n = 2x = 16) x *C. palustre* (2n = 4x = 34)|France|Tetraploid|[@RN1445]|
-|Asteraceae|*Ixeris repens* (2n = 2x = 16) x *I. debilis* (2n = 6x = 48)^auto^|Japan|Hexaploid(?)|[@RN1446]|
-|Asteraceae|*Packera paupercula* (2n = 4x = 44) x *P. indecora* (2n = 8x = 88)|USA; Michigan|-|(Kowal et al., 2011)|
-|Asteraceae|*Senecio madagascariensis* (2n = 2x) x *S. pinnatifolius* (2n = 4x)|Australia|-|[@RN1440]|
-|Asteraceae|*Senecio squalidus* (2n = 2x = 20) x *S. vulgaris* (2n = 4x = 40)^allo^|Britain|Tetraploid; chromosome doubling|[@RN1447; @RN911; @RN315; @RN980; @RN311]|
-|Betulaceae|*Betula nana* (2n = 2x = 28) x *B. pubescens* (2n = 4x = 56)^allo^|Britain|Tetraploid; both(?)|[@RN1394; @RN1392; @RN1182]|
-|Betulaceae|*Betula pendula* (2n = 2x = 28) x *B. pubescens* (2n = 4x = 56)^allo^|Britain|Tetraploid|[@RN908]|
-|Betulaceae|*Betula × purpusii* (2n = 5x = 70) x *B. alleghaniensis* (2n = 6x = 84)^allo^|Michigan; USA|Hexaploid|[@RN1448]|
-|Brassicaceae|*Cardamine apennina* (2n =2x = 16) x *C. amporitana* (2n = 4x = 32)|Italy|Tetraploid|[@RN1408]|
-|Brassicaceae|*Cardamine × insueta* (2n = 3x = 24) x *C. pratensis* (2n = 4x = 32)|Switzerland|-|[@RN1235]|
-|Brassicaceae|*Cochlearia officinalis* (2n = 4x = 24) x *C. danica* (2n = 6x = 42)|Britain|Tetraploid|[@RN1395]|
-|Brassicaceae|*Draba incana* (2n = 4x = 32) x *D. norvegica* (2n = 6x = 48)^allo^|Scandinavia|-|[@RN1449]|
-|Brassicaceae|*Draba nivalis* (2n = 2x = 16) x *D. daurica* (2n = 8x = 64)|Scandinavia|-|[@RN1449]|
-|Brassicaceae|*Draba arctica* (2n = 10x = 80) x *D. corymbosa* (2n = 16x = 128)^allo^|Scandinavia|-|[@RN1449]|
-|Brassicaceae|*Rorippa austraica* (2n = 2x = 16) x *R. sylvestris* (2n = 4x/6x = 32/48)|Germany|Both|[@RN1393]; see also @RN1450|
-|Fabaceae|*Lotus stepposus* (2n = 2x = 12) x *L. × ucrainicus* (2n = 4x =24)^allo^|Ukraine, Turkmenistan, Kazakhstan, Mongolia|-|[@RN1451]|
-|Liliaceae|*Erythronium mesochoreum* (2n = 2x = 22) x *E. albidum* (2n = 4x = 44)|Nebraska; USA|-|[@RN1452]|
-|Orchidaceae|*Dactylorhiza fuchsii* (2n = 2x = 40) x *D. praetermissa* (2n = 4x = 80)^allo^|Belgium|-|[@RN1067]|
-|Orchidaceae|*Dactylorhiza incarnata* (2n = 2x = 40) x *D. praetermissa* (2n = 4x = 80)^allo^|Belgium|-|[@RN1067; @RN1453]|
-|Orchidaceae|*Dactylorhiza incarnata* subsp. *cruenta* (2n = 2x = 40) x *D. lapponica* (2n = 4x = 80)^allo^|Norway|Tetraploid|[@RN1053]|
-|Orchidaceae|*Dactylorhiza incarnata* (2n = 2x = 40) x *D. traunsteineri* (2n = 4x = 80)^allo^|Sweden|Tetraploid|[@RN1454]; see also @RN1441|
-|Orchidaceae|*Dactylorhiza fuchsii* (2n = 2x = 40) x *D. maculata* (2n = 4x = 80)^auto^|Europe to Caucasus|-|[@RN1455]|
-|Orchidaceae|*Epidendrum fulgens* (2n = 2x = 24) x *E. puniceoluteum* (2n = 4x = 52)|Brazil|Tetraploid|[@RN905]|
-|Orobanchaceae|*Euphrasia anglica* (2n = 2x = 22) x *E. micrantha* (2n = 4x = 44)^allo^|Britain|Diploid(?)|[@RN423; @RN383]|
-|Phrymaceae|*Mimulus guttatus* (2n = 2x = 28) x *M. luteus* (2n = 4x = 60-2)^allo^|Britain|Chromosome doubling|[@RN1383]|
-|Plantaginaceae|*Callitriche cophocarpa* (2n = 2x = 10) x *C. platycarpa* (2n = 4x = 20)^allo^|Europe|-|[@RN1456]|
-|Poaceae|*Vulpia fasciculata* (2n = 4x = 28) x *Festuca rubra* (2n = 6x = 42)|Britain|Hexaploid(?)|[@RN1385]|
-|Polygalaceae|*Polygala calcarea* (2n = 2x = 34) x *P. vulgaris* (2n = 4x = 68)|Britain|Tetraploid|[@RN1457]|
-|Polygonaceae|*Fallopica sachaliensis* (2n = 4x = 44) x *F. japonica* var *japonica* (2n = 8x = 88)|Britain|-|[@RN1396]; see also @RN1458 and @RN1459|
-|Polygonaceae|*Rumex obtusifolius* (2n = 4x = 40) x *R. aquaticus* (2n = 20x = 200)|Britain|20-ploid|[@RN1460]|
-|Primulaceae|*Dodecatheon frenchii* (2n = 2x = 44) x *D. meadia* (2n = 4x = 88)|Illinois; USA|Tetraploid|[@RN1084]|
-|Rannunculaceae|*Aconitum variegatum* (2n = 2x = 16) x *A. firmum* (2n = 4x = 32)^allo^|Europe|Diploid?|[@RN1169]|
-|Rannunculaceae|*Ficaria calthifolia* (2n = 2x = 16) x *F. verna* subsp. *verna* (2n = 4x = 32)|Europe|-|[@RN1167]|
-|Rosaceae|*Rosa rugosa* (2n = 2x = 14) x *R. mollis* (2n = 4x = 28)|Europe|Tetraploid|[@RN1461]|
-|Violaceae|*Viola reichenbachiana* (2n = 2x = 20) x *V. riviniana* (2n = 4x = 40)^allo^|Germany|-|[@RN1462]; see also @RN1074|
+| Family          | Hybridising species                                                                             | Location                                    | Direction to                    | Reference                                 |
+| --------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------- | ----------------------------------------- |
+| **Animals**     |
+|                 |
+| Bufonidae       | *Bufo turanensis* (2n = 2x  =22) x *Bufo pewzowi* (2n = 4x = 44)^allo^                          | Kyrgyzstan                                  | Diploid                         | [@Stocketal2010a]                         |
+| Cyprinidae      | *Squalius alburnoides* (2n = 2x = 50; 3n = 75; 4n = 100) x *S. pyrenaicus* (2n = 2x = 50)^allo^ | Iberia                                      | -                               | [@Alvesetal2001a; @CrespoLopez2007a]      |
+| Myobatrachidae  | *Neobatrachus sutor* (2n = 2x = 24) x *N. kunapalari* (2n = 4x = 48)^auto^                      | Australia                                   | Tetraploid                      | [@RN1469]                                 |
+| **Plants**      |
+|                 |
+| Aspleniaceae    | *Asplenium scolopendrium* (2n = 2x = 72) x *A. adiantum-nigrum* (2n = 4x = 144)                 | Britain                                     | -                               | [@RN1007]                                 |
+| Cyatheaceae     | *Gymnosphaera denticulata* (2n = 2x = 138) x *G. metteniana* (2n = 4x = 274)^allo^              | China                                       | Tetraploid                      | [@RN1410]                                 |
+| Dryopteridaceae | *Polystichum setiferum* (2n = 2x = 82) x *P. aculeatum* (2n = 4x = 164)                         | Britain                                     | -                               | [@RN912]                                  |
+| Asteraceae      | *Achillea clypeolata* (2n = 2x = 18) x *A. collina* (2n = 4x = 36)^allo^                        | Bulgaria                                    | Tetraploid                      | [@RN1444]                                 |
+| Asteraceae      | *Centaurea pseudophrygia* (2n = 2x = 22) x *C. jacea* (2n = 4x = 44)                            | Czech Republic                              | -                               | [@RN1041]                                 |
+| Asteraceae      | *Cirsium carniolicum* ssp. *rufescens* (2n = 2x = 16) x *C. palustre* (2n = 4x = 34)            | France                                      | Tetraploid                      | [@RN1445]                                 |
+| Asteraceae      | *Ixeris repens* (2n = 2x = 16) x *I. debilis* (2n = 6x = 48)^auto^                              | Japan                                       | Hexaploid(?)                    | [@RN1446]                                 |
+| Asteraceae      | *Packera paupercula* (2n = 4x = 44) x *P. indecora* (2n = 8x = 88)                              | USA; Michigan                               | -                               | (Kowal et al., 2011)                      |
+| Asteraceae      | *Senecio madagascariensis* (2n = 2x) x *S. pinnatifolius* (2n = 4x)                             | Australia                                   | -                               | [@RN1440]                                 |
+| Asteraceae      | *Senecio squalidus* (2n = 2x = 20) x *S. vulgaris* (2n = 4x = 40)^allo^                         | Britain                                     | Tetraploid; chromosome doubling | [@RN1447; @RN911; @RN315; @RN980; @RN311] |
+| Betulaceae      | *Betula nana* (2n = 2x = 28) x *B. pubescens* (2n = 4x = 56)^allo^                              | Britain                                     | Tetraploid; both(?)             | [@RN1394; @RN1392; @RN1182]               |
+| Betulaceae      | *Betula pendula* (2n = 2x = 28) x *B. pubescens* (2n = 4x = 56)^allo^                           | Britain                                     | Tetraploid                      | [@RN908]                                  |
+| Betulaceae      | *Betula × purpusii* (2n = 5x = 70) x *B. alleghaniensis* (2n = 6x = 84)^allo^                   | Michigan; USA                               | Hexaploid                       | [@RN1448]                                 |
+| Brassicaceae    | *Cardamine apennina* (2n =2x = 16) x *C. amporitana* (2n = 4x = 32)                             | Italy                                       | Tetraploid                      | [@RN1408]                                 |
+| Brassicaceae    | *Cardamine × insueta* (2n = 3x = 24) x *C. pratensis* (2n = 4x = 32)                            | Switzerland                                 | -                               | [@RN1235]                                 |
+| Brassicaceae    | *Cochlearia officinalis* (2n = 4x = 24) x *C. danica* (2n = 6x = 42)                            | Britain                                     | Tetraploid                      | [@RN1395]                                 |
+| Brassicaceae    | *Draba incana* (2n = 4x = 32) x *D. norvegica* (2n = 6x = 48)^allo^                             | Scandinavia                                 | -                               | [@RN1449]                                 |
+| Brassicaceae    | *Draba nivalis* (2n = 2x = 16) x *D. daurica* (2n = 8x = 64)                                    | Scandinavia                                 | -                               | [@RN1449]                                 |
+| Brassicaceae    | *Draba arctica* (2n = 10x = 80) x *D. corymbosa* (2n = 16x = 128)^allo^                         | Scandinavia                                 | -                               | [@RN1449]                                 |
+| Brassicaceae    | *Rorippa austraica* (2n = 2x = 16) x *R. sylvestris* (2n = 4x/6x = 32/48)                       | Germany                                     | Both                            | [@RN1393]; see also @RN1450               |
+| Fabaceae        | *Lotus stepposus* (2n = 2x = 12) x *L. × ucrainicus* (2n = 4x =24)^allo^                        | Ukraine, Turkmenistan, Kazakhstan, Mongolia | -                               | [@RN1451]                                 |
+| Liliaceae       | *Erythronium mesochoreum* (2n = 2x = 22) x *E. albidum* (2n = 4x = 44)                          | Nebraska; USA                               | -                               | [@RN1452]                                 |
+| Orchidaceae     | *Dactylorhiza fuchsii* (2n = 2x = 40) x *D. praetermissa* (2n = 4x = 80)^allo^                  | Belgium                                     | -                               | [@RN1067]                                 |
+| Orchidaceae     | *Dactylorhiza incarnata* (2n = 2x = 40) x *D. praetermissa* (2n = 4x = 80)^allo^                | Belgium                                     | -                               | [@RN1067; @RN1453]                        |
+| Orchidaceae     | *Dactylorhiza incarnata* subsp. *cruenta* (2n = 2x = 40) x *D. lapponica* (2n = 4x = 80)^allo^  | Norway                                      | Tetraploid                      | [@RN1053]                                 |
+| Orchidaceae     | *Dactylorhiza incarnata* (2n = 2x = 40) x *D. traunsteineri* (2n = 4x = 80)^allo^               | Sweden                                      | Tetraploid                      | [@RN1454]; see also @RN1441               |
+| Orchidaceae     | *Dactylorhiza fuchsii* (2n = 2x = 40) x *D. maculata* (2n = 4x = 80)^auto^                      | Europe to Caucasus                          | -                               | [@RN1455]                                 |
+| Orchidaceae     | *Epidendrum fulgens* (2n = 2x = 24) x *E. puniceoluteum* (2n = 4x = 52)                         | Brazil                                      | Tetraploid                      | [@RN905]                                  |
+| Orobanchaceae   | *Euphrasia anglica* (2n = 2x = 22) x *E. micrantha* (2n = 4x = 44)^allo^                        | Britain                                     | Diploid(?)                      | [@RN423; @RN383]                          |
+| Phrymaceae      | *Mimulus guttatus* (2n = 2x = 28) x *M. luteus* (2n = 4x = 60-2)^allo^                          | Britain                                     | Chromosome doubling             | [@RN1383]                                 |
+| Plantaginaceae  | *Callitriche cophocarpa* (2n = 2x = 10) x *C. platycarpa* (2n = 4x = 20)^allo^                  | Europe                                      | -                               | [@RN1456]                                 |
+| Poaceae         | *Vulpia fasciculata* (2n = 4x = 28) x *Festuca rubra* (2n = 6x = 42)                            | Britain                                     | Hexaploid(?)                    | [@RN1385]                                 |
+| Polygalaceae    | *Polygala calcarea* (2n = 2x = 34) x *P. vulgaris* (2n = 4x = 68)                               | Britain                                     | Tetraploid                      | [@RN1457]                                 |
+| Polygonaceae    | *Fallopica sachaliensis* (2n = 4x = 44) x *F. japonica* var *japonica* (2n = 8x = 88)           | Britain                                     | -                               | [@RN1396]; see also @RN1458 and @RN1459   |
+| Polygonaceae    | *Rumex obtusifolius* (2n = 4x = 40) x *R. aquaticus* (2n = 20x = 200)                           | Britain                                     | 20-ploid                        | [@RN1460]                                 |
+| Primulaceae     | *Dodecatheon frenchii* (2n = 2x = 44) x *D. meadia* (2n = 4x = 88)                              | Illinois; USA                               | Tetraploid                      | [@RN1084]                                 |
+| Rannunculaceae  | *Aconitum variegatum* (2n = 2x = 16) x *A. firmum* (2n = 4x = 32)^allo^                         | Europe                                      | Diploid?                        | [@RN1169]                                 |
+| Rannunculaceae  | *Ficaria calthifolia* (2n = 2x = 16) x *F. verna* subsp. *verna* (2n = 4x = 32)                 | Europe                                      | -                               | [@RN1167]                                 |
+| Rosaceae        | *Rosa rugosa* (2n = 2x = 14) x *R. mollis* (2n = 4x = 28)                                       | Europe                                      | Tetraploid                      | [@RN1461]                                 |
+| Violaceae       | *Viola reichenbachiana* (2n = 2x = 20) x *V. riviniana* (2n = 4x = 40)^allo^                    | Germany                                     | -                               | [@RN1462]; see also @RN1074               |
 
 Table: Studies reporting cross-ploidy hybrids based on cytological and/or molecular genetic analyses. Details are provided of plant family, hybridising species, broad geographic locality, and the direction of introgression (if known). Superscripts indicate whether the polyploids are allopolyploid (^allo^) or autopolyploid (^auto^). \label{CH2T1}
 
