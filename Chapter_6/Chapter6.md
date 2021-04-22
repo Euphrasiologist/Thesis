@@ -2,6 +2,8 @@
 
 # Conserved and host-specific interactions in a multi-host parasite system
 
+This article is available as a pre-print on bioRxiv: https://doi.org/10.1101/2021.03.25.436816 and is in revision for the New Phytologist.
+
 ## Abstract
 
 Generalist parasites may infect multiple host species and experience complex host-parasite interactions. However, understanding the dynamics of host-parasite interactions remains a major challenge in generalist parasite systems. In this study, we use an experimentally tractable generalist parasitic plant group to understand host-parasite interactions in a multi-host system. Using common garden experiments, we show that extensive variation in the performance of hemiparasitic eyebrights (*Euphrasia*) across its host range can be attributed to both host life history and host phylogenetic relationships, but not host functional group as widely expected. While host-dependent parasite performance is generally conserved between eyebright species, with a restricted and phylogenetically divergent subset of hosts being highly beneficial, some eyebrights have more specialised host-parasite interactions. These host-parasite interactions show that a generalist parasite can respond to individual host selection pressures and may adapt to local host communities. 
