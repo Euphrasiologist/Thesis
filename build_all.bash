@@ -68,7 +68,9 @@ pdftk MBrown_Thesis.pdf cat 2-end output MBrown_Thesis_notitle.pdf
 
 printf "Making appendices...\n"
 
-pandoc ./Appendices/appendices.md \
+pandoc "appendices.yaml" \
+./Appendices/appendices.md \
+--bibliography "StitchThesis2.bib" \
 -o ./Appendices/appendices.pdf \
 -H ./Appendices/landscape.tex \
 -H ./Appendices/table_cap_width.tex

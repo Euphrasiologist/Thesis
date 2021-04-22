@@ -1,0 +1,14 @@
+---
+lang: en
+geometry:
+    - top=3cm
+    - bottom=4cm
+    - left=2.5cm
+    - right=2.5cm
+classoption: chapterprefix, headings=normal
+top-level-division: chapter
+link-citations: true
+reference-section-title: "Bibliography"
+include-before:
+- '`\newpage{}`{=latex}'
+---
