@@ -1,60 +1,42 @@
-My corrections (29.11.20)
+Max Brown Thesis Corrections (24.04.21)
+---------------------------------------
+This document details the changes to the thesis post-viva. The numbered sections contain the examiners points. Actions to each point are under the "actions" subheader.
 
 1. In the introduction, we request that you explain more fully how the various chapters fit together to address the aims. This could take the form of a narrative explanation with questions (and hypotheses) at the end of chapter 1.
 
 Actions:
-- Narrative explanation and questions after both penultimate paragraphs of Chapter 1.
-Completed.
+- Section 1.8 - expansion of paragraph 1 on p19. Expansion also of paragraph 2 of this section, adding questions.
 
 2. In Chapter 2, we request that you expand on the mechanistic explanations of how polyploidy can act as a barrier to both hybrid formation and gene flow. We suggest that these mechanisms can be placed into a conceptual framework that also includes isolating mechanisms that do not relate to ploidy. This will greatly improve the impact of this important review.
 
 Actions:
-- p21 (introduction) add a couple of sentences e.g. there are a range of reproductive barriers to cross species hybridisation, from prezygotic, which affect the formation of a zygote (e.g. differing flowering times) to postzygotic, which affects the fertility of the organism (e.g. uneven chromosome complement). In plants, polyploidy is a strong reproductive barrier, as it is a common phenomenon in a wide range of species.
-- Paragraph 1 has been split into two.
+- Section 2.2 - Paragraph 1 has been split into two. The first paragraph now contains more detail on reproductive barriers to cross species hybridisation.
 
-3. In Chapter 3, we request that you discuss the fact that the observation of hybridisation is distinct
-from the occurrence of gene flow. This might also include a comparison with the findings of Roux
-et al. (https://doi.org/10.1371/journal.pbio.2000234) who assessed evidence for gene flow in 61
-pairs of animal taxa. 
+3. In Chapter 3, we request that you discuss the fact that the observation of hybridisation is distinct from the occurrence of gene flow. 
 
 Actions:
-- p44 After "In this study we characterise... or archaeophytes" hybrids are putative based on 
-morphology, and that sequences are only from putative parental progenitors.
-- Change all 'pairwise combinations' to 'pairwise parental combinations'
+- Section 3.2 - 3rd paragraph on p44 After "In this study we characterise... or archaeophytes" a sentence of clarity is added to say hybrids are putative based on morphology, and that sequences are only from putative parental progenitors.
+- Throughout this chapter, changed all instances of 'pairwise combinations' to 'pairwise parental combinations'.
 
-Done.
-
-1. In Chapter 4, we request that you discuss how the model fitting analysis performed using dadi
-may have been impacted by an insufficient number of SNPs, especially considering the failure to
-find optimal parameters in two of the models.
+4. In Chapter 4, we request that you discuss how the model fitting analysis performed using dadi may have been impacted by an insufficient number of SNPs, especially considering the failure to find optimal parameters in two of the models.
 
 Actions:
-- p60 Section 4.3.6 after first sentence, add 'while we acknowledge that a limited number of SNPs 
-were generated, these analyses should be able to tell us the difference between scenarios of gene flow'. Additional citation (Hartmann et al 2020).
-- p65 Section 4.4.4 - concrete conclusions limited due to the low number of SNPs. Mentioned also in the discussion.
+- p60 Section 4.3.6 after first sentence, add 'while we acknowledge that a limited number of SNPs were generated, these analyses should be able to tell us the difference between scenarios of gene flow'. Additional citation (Hartmann et al 2020).
+- p65 Section 4.4.4 - concrete conclusions limited due to the low number of SNPs. This same point is also mentioned in the discussion.
 
-1. We request that Chapter 5 be made an appendix. 
-
-Actions:
-- Placed in appendix, and updated to most recent version.
-
-
-1. In chapter 7, we request that you provide an expanded and more nuanced discussion of the
-findings with respect to functional groups.
+5. We request that Chapter 5 be made an appendix. 
 
 Actions:
-- Something like: functional groups are useful concepts, and contain important shared traits among species within functional groups, however, groups such as forbs are so diverse (morphologically, ecologically, and phylogenetically) that they warrant being split into smaller groups for analysis.
-- Functional group given expanded attention in paragraph 1 of the discussion.
+- Placed in appendix, and updated to most recent version. Note that it contains its own bibliography.
 
+6. In chapter 7 (now 6), we request that you provide an expanded and more nuanced discussion of the findings with respect to functional groups.
+
+Actions:
+- Section 6.5 paragraph 1 contains an expanded discussion of functional group. "Functional groups... future analyses".
 
 7. We request that you rewrite the general discussion, placing your thesis in the broader context of
 the field, and describing if and how it changes our understanding of the field. A conceptual diagram
 would be useful here.
 
 Actions:
-
-- A paragraph to remind the reader of taxonomic complexity and problems of the thesis? Combining all the present evidence, expanding onto wider context and implications. Follow with new research on chromosome staining/genomics. 
-- Added a paragraph at the start of the discussion.
-
-## Comments and typos
-6.4.2 - \ref{} issue.
+- A paragraph at the start of the discussion.
