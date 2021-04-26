@@ -387,7 +387,7 @@ Figure 11: Comparison between trait values for wild-collected herbarium specimen
 Table 16: Model output from MCMCglmm comparing traits for the wild collected *Euphrasia* specimens to the baseline of the common garden data (Intercept). The posterior means are reported along with the lower and upper 95% credible intervals, as well as the p-value (pMCMC) for the effect.
 
 | Trait | Factor | Posterior mean | Lower credible interval | Upper credible interval | pMCMC |
-| ----- | ------ | -------------- | ----------------------- | ----------------------- | ----- ||
+| --------------- | -------------- | -------- | ------ | ------ | ----- |
 | Branches        | (Intercept)    | 1.863          | 1.682                   | 2.086                   | 0.001 |
 |                 | Wild collected | -0.457         | -0.619                  | -0.290                  | 0.001 |
 | Internode ratio | (Intercept)    | 2.533          | 2.118                   | 2.920                   | 0.001 |
