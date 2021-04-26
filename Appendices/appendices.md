@@ -403,7 +403,7 @@ Table 16: Model output from MCMCglmm comparing traits for the wild collected *Eu
 
 
 
-## Appendix 5: Chapter 7
+## Appendix 5: Chapter 6
 
 Figure 12: *Euphrasia* reproductive output over time showing differences in reproductive trajectories, data from Experiment 1. Values represent mean reproductive nodes at a particular time point ± one standard error. Eleven species of host are shown, along with the average host where points are the mean of all hosts in the experiment.
 
@@ -411,19 +411,25 @@ Figure 12: *Euphrasia* reproductive output over time showing differences in repr
 
 \newpage{}
 
-Figure 13: Posterior distributions of the phylogenetic signal for the models from Experiment 1, where 45 different host species were grown with *Euphrasia arctica*. The distributions of phylogenetic signal are shown for three *Euphrasia* traits: survival, total reproductive output at the end of the season, and days to flower. Total reproductive output shows both the highest and least variable estimate of phylogenetic signal, however all are significant as the distributions are not overlapping zero.
+Figure 13: The effect of host functional group on hemiparasitic *Euphrasia arctica* performance, measured as the mean end of season total reproductive nodes. The standard error of the mean is shown on each bar. (a) shows the performance of *E. arctica* across all host species, while (b) shows the performance of *E. arctica* on a subset of host species, excluding probable non-host species (*Allium ursinum*, A*nthriscus sylvestris*, *Centaurea nigra*, *Cystopteris dickieana*, *Dactylorhiza purpurella*, *Erica tetralix*, *Galanthus nivalis*, *Helianthemum nummularium*, *Hyacinthoides non-scripta*, *Lagurus ovatus*, *Leucanthemum vulgare*, *Meum athamanticum*, *Ononis spinosa*, *Papaver rhoeas*, *Pinus sylvestris*, *Pteridium aquilinum*, *Rumex acetosella*, *Senecio vulgaris*, *Silene latifolia*, *Thymus polytrichus*, *Ulex europaeus*, *Zea mays*). These host species conferred on average less than two reproductive nodes to *E. arctica* by the end of the season.
+
+![](./Appendices/CH6SF13.pdf){ width=100% }
+
+\newpage{}
+
+Figure 14: Posterior distributions of the phylogenetic signal for the models from Experiment 1, where 45 different host species were grown with *Euphrasia arctica*. The distributions of phylogenetic signal are shown for three *Euphrasia* traits: survival, total reproductive output at the end of the season, and days to flower. Total reproductive output shows both the highest and least variable estimate of phylogenetic signal, however all are significant as the distributions are not overlapping zero.
 
 ![](./Appendices/CH6SF2.pdf){ width=100% }
 
 \newpage{}
 
-Figure 14. Posterior distribution of the variance for random effects in the model fitted for Experiment 2, where four species of *Euphrasia* were grown on thirteen different species of host. The random effects are the *Euphrasia*-host interaction, the sole effect of host species, and the residual variance. Although the residual variance is the explaining most variation, both the host-parasite interaction and hosts themselves are estimated to be significantly way from zero.
+Figure 15. Posterior distribution of the variance for random effects in the model fitted for Experiment 2, where four species of *Euphrasia* were grown on thirteen different species of host. The random effects are the *Euphrasia*-host interaction, the sole effect of host species, and the residual variance. Although the residual variance is the explaining most variation, both the host-parasite interaction and hosts themselves are estimated to be significantly way from zero.
 
 ![](./Appendices/CH6SF3.pdf){ width=100% }
 
 \newpage{}
 
-Figure 15. Performance of four species of *Euphrasia* on thirteen different species of host plants measured as cumulative reproductive nodes. Each panel represents a unique *Euphrasia* population (a = A1766, b = T1761, c = V1761, d = M1767, e = M1768, f = M1769), coloured by species. Two populations, (e) and (f) co-occur. Host species are ranked by average performance conferred to a *Euphrasia* species, where HPU = *Hypericum pulchrum*, CVU = *Calluna vulgaris*, HLA = *Holcus lanatus*, OVU = *Origanum vulgare*, UGA = *Ulex gallii*, PMA = *Plantago maritima*, PLA = *Plantago lanceolata*, VCH = *Veronica chamaedrys*, FOV = *Festuca ovina*, DFL = *Deschampsia flexuosa*, ACU = *Agrostis curtisii*, LPE = *Lolium perenne* and LCO = *Lotus corniculatus*. Y-axis values are the log of the mean cumulative reproductive nodes ± one standard error.
+Figure 16. Performance of four species of *Euphrasia* on thirteen different species of host plants measured as cumulative reproductive nodes. Each panel represents a unique *Euphrasia* population (a = A1766, b = T1761, c = V1761, d = M1767, e = M1768, f = M1769), coloured by species. Two populations, (e) and (f) co-occur. Host species are ranked by average performance conferred to a *Euphrasia* species, where HPU = *Hypericum pulchrum*, CVU = *Calluna vulgaris*, HLA = *Holcus lanatus*, OVU = *Origanum vulgare*, UGA = *Ulex gallii*, PMA = *Plantago maritima*, PLA = *Plantago lanceolata*, VCH = *Veronica chamaedrys*, FOV = *Festuca ovina*, DFL = *Deschampsia flexuosa*, ACU = *Agrostis curtisii*, LPE = *Lolium perenne* and LCO = *Lotus corniculatus*. Y-axis values are the log of the mean cumulative reproductive nodes ± one standard error.
 
 ![](./Appendices/CH6SF4.pdf){ width=100% }
 
