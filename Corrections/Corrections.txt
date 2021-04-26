@@ -22,7 +22,7 @@ Actions:
 
 Actions:
 - p60 Section 4.3.6 after first sentence, add 'while we acknowledge that a limited number of SNPs were generated, these analyses should be able to tell us the difference between scenarios of gene flow'. Additional citation (Hartmann et al 2020).
-- p65 Section 4.4.4 - concrete conclusions limited due to the low number of SNPs. This same point is also mentioned in the discussion.
+- p65 Section 4.4.4 - added a sentence on concrete conclusions limited due to the low number of SNPs. This same point is also now mentioned in the discussion.
 
 5. We request that Chapter 5 be made an appendix. 
 
@@ -39,4 +39,4 @@ the field, and describing if and how it changes our understanding of the field. 
 would be useful here.
 
 Actions:
-- A paragraph at the start of the discussion.
+- A paragraph now inserted at the very start of the discussion.
