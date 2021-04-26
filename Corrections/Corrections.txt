@@ -15,7 +15,8 @@ Actions:
 3. In Chapter 3, we request that you discuss the fact that the observation of hybridisation is distinct from the occurrence of gene flow. 
 
 Actions:
-- Section 3.2 - 3rd paragraph on p44 After "In this study we characterise... or archaeophytes" a sentence of clarity is added to say hybrids are putative based on morphology, and that sequences are only from putative parental progenitors.
+- Section 3.2 - 3rd paragraph on p44 After "In this study we characterise... or archaeophytes" a sentence of clarity is added to say hybrids "are putative based on morphology", and that sequences are only from putative parental progenitors.
+- search "hybridisation" and "gene flow" and make sure they are used in the right context.
 - Throughout this chapter, changed all instances of 'pairwise combinations' to 'pairwise parental combinations'.
 
 4. In Chapter 4, we request that you discuss how the model fitting analysis performed using dadi may have been impacted by an insufficient number of SNPs, especially considering the failure to find optimal parameters in two of the models.
@@ -33,10 +34,11 @@ Actions:
 
 Actions:
 - Section 6.5 paragraph 1 contains an expanded discussion of functional group. "Functional groups... future analyses".
+- The whole manuscript was revised since it was sent to review at New Phytologist. This was initially rejected and and reviewed accordingly. The new discussion includes expansion on functional groups.
 
 7. We request that you rewrite the general discussion, placing your thesis in the broader context of
 the field, and describing if and how it changes our understanding of the field. A conceptual diagram
 would be useful here.
 
 Actions:
-- A paragraph now inserted at the very start of the discussion.
+- p99 A paragraph now inserted at the very start of the discussion.
