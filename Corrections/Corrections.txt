@@ -10,7 +10,7 @@ Actions:
 2. In Chapter 2, we request that you expand on the mechanistic explanations of how polyploidy can act as a barrier to both hybrid formation and gene flow. We suggest that these mechanisms can be placed into a conceptual framework that also includes isolating mechanisms that do not relate to ploidy. This will greatly improve the impact of this important review.
 
 Actions:
-- Section 2.2 - Paragraph 1 has been split into two. The first paragraph now contains more detail on reproductive barriers to cross species hybridisation.
+- p21 Section 2.2 - Paragraph 1 has been split into two. The first paragraph now contains more detail on reproductive barriers to cross species hybridisation.
 
 3. In Chapter 3, we request that you discuss the fact that the observation of hybridisation is distinct from the occurrence of gene flow. 
 
@@ -28,7 +28,7 @@ Actions:
 5. We request that Chapter 5 be made an appendix. 
 
 Actions:
-- Placed in appendix, and updated to most recent version. Note that it contains its own bibliography.
+- now p185 Placed in appendix, and updated to most recent version. Note that it contains its own bibliography.
 
 6. In chapter 7 (now 6), we request that you provide an expanded and more nuanced discussion of the findings with respect to functional groups.
 
@@ -37,8 +37,7 @@ Actions:
 - The whole manuscript was revised since it was sent to review at New Phytologist. This was initially rejected and and reviewed accordingly. The new discussion includes expansion on functional groups.
 
 7. We request that you rewrite the general discussion, placing your thesis in the broader context of
-the field, and describing if and how it changes our understanding of the field. A conceptual diagram
-would be useful here.
+the field, and describing if and how it changes our understanding of the field.
 
 Actions:
 - p99 A paragraph now inserted at the very start of the discussion.

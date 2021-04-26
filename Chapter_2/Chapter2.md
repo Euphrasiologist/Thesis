@@ -48,7 +48,7 @@ In contrast to flowering plants, polyploidy in animals and fungi is thought to b
 \newpage{}
 
 | Family          | Hybridising species                                                                             | Location                                    | Direction to                    | Reference                                 |
-| --------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------- | ----------------------------------------- |
+| ------------------------ | ---------------------------------------- | -------------------- | --------------- | ------------------------ |
 | **Animals**     |
 |                 |
 | Bufonidae       | *Bufo turanensis* (2n = 2x  =22) x *Bufo pewzowi* (2n = 4x = 44)^allo^                          | Kyrgyzstan                                  | Diploid                         | [@Stocketal2010a]                         |
