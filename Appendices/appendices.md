@@ -24,17 +24,17 @@ Table 1: Search strings for Google Scholar searches used to generate the list of
 
 | Journal                                   | Search string                                                                                                                                                                            |
 | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Molecular Ecology                         | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:”Molecular Ecology”                                                                          |
-| Evolution                                 | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid site:onlinelibrary.wiley.com source:”Evolution” -source:”and Evolution” -source:”Organic Evolution” |
-| Heredity                                  | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:”Heredity”                                                                                   |
-| Annals of Botany                          | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:”Annals of Botany”                                                                           |
-| American Journal of Botany                | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:” American Journal of Botany”                                                                |
-| New Phytologist                           | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:” New Phytologist”                                                                           |
-| PNAS                                      | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:” PNAS”                                                                                      |
-| Biological Journal of the Linnean Society | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:” Biological Journal of the Linnean Society”                                                 |
-| Botanical Journal of the Linnean Society  | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:” Botanical Journal of the Linnean Society”                                                  |
-| Journal of Evolutionary Biology           | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:” Journal of Evolutionary Biology”                                                           |
-| PLoS One                                  | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:” PLoS One”                                                                                  |
+| Molecular Ecology                         | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"Molecular Ecology"                                                                         |
+| Evolution                                 | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid site:onlinelibrary.wiley.com source:"Evolution" -source:"and Evolution" -source:"Organic Evolution" |
+| Heredity                                  | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"Heredity"                                                                                   |
+| Annals of Botany                          | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"Annals of Botany"                                                                           |
+| American Journal of Botany                | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"American Journal of Botany"                                                                |
+| New Phytologist                           | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"New Phytologist"                                                                           |
+| PNAS                                      | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"PNAS"                                                                                      |
+| Biological Journal of the Linnean Society | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"Biological Journal of the Linnean Society"                                                 |
+| Botanical Journal of the Linnean Society  | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"Botanical Journal of the Linnean Society"                                                  |
+| Journal of Evolutionary Biology           | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"Journal of Evolutionary Biology"                                                           |
+| PLoS One                                  | Ploidy hybrid genetic introgression diploid OR tetraploid OR hexaploidy OR octoploid source:"PLoS One"                                                                                  |
 
 \newpage{}
 
@@ -121,7 +121,7 @@ Figure 7: Distributions of parameters fitted to the models with constant gene fl
 Table 5: Primers and PCR conditions used to amplify the *rpL32*-*trnL*~UAG~ plastid marker in *Euphrasia* species.
 
 | Primer      | Orientation | Sequence (5’-3’)       |     |     | Reagents (1 reaction)                                                                                                                                 | PCR conditions                                                                                                            | References          |
-| ----------- | ----------- | ---------------------- | --- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| ----------- | ----------- | ---------------------- | --- | --- | ----------------- | ------------ | -------- |
 | *rpL32*-F   | Forward     | CAGTTCCAAAAAAACGTACTTC |     |     | 12.5$\mu$M Taq 2X Master Mix, 0.5$\mu$L Bovine Serum Albumen, 0.5$\mu$L forward and reverse primers at 10$\mu$M, 10.5$\mu$L water, 1$\mu$L sample DNA | 5 min at 94$^{\circ}$C, 35× (30 s at 94$^{\circ}$C, 45 s at 50$^{\circ}$C, 40 s at 72$^{\circ}$C), 5 min at 72$^{\circ}$C | (Wang et al., 2018) |
 | *trnL*~UAG~ | Reverse     | CTGCTTCCTAAGAGCAGCGT   | -   |     |
 \elscape
@@ -132,7 +132,7 @@ Table 5: Primers and PCR conditions used to amplify the *rpL32*-*trnL*~UAG~ plas
 Table 6: Primers and PCR conditions used to amplify the ITS1 nuclear marker in *Euphrasia* species.
 
 | Primer | Orientation | Sequence (5’-3’)       |     |     | Reagents (1 reaction)                                                                                                                                 | PCR conditions                                                                                                            | References          |
-| ------ | ----------- | ---------------------- | --- | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| ------ | ----------- | ---------------------- | --- | --- | ---------------------- | -------------- | ------------ |
 | ITS4   | Forward     | TCCTCCGCTTATTGATATGC   |     |     | 12.5$\mu$M Taq 2X Master Mix, 0.5$\mu$L Bovine Serum Albumen, 0.5$\mu$L forward and reverse primers at 10$\mu$M, 10.5$\mu$L water, 1$\mu$L sample DNA | 5min at 94$^{\circ}$C, 30 x (30s at 94$^{\circ}$C, 30s at 54$^{\circ}$C, 2min at 72$^{\circ}$C), 10 min at 72$^{\circ}$C. | (Wang et al., 2018) |
 | ITS5   | Reverse     | GGAAGTAAAAGTCGTAACAAGG | -   |     |
 \elscape
@@ -140,12 +140,12 @@ Table 6: Primers and PCR conditions used to amplify the ITS1 nuclear marker in *
 \newpage{}
 
 \blscape
-## Appendix 4: Chapter 6
+## Appendix 4: Chapter 5
 
-Table 7: Host species used in the common garden experiment in Chapter 6. The species along with the taxonomic family they belong to, their ecological functional group and the source of the seeds are also given. Commercial seed stocks list the original collection where known.
+Table 7: Host species used in the common garden experiment in Chapter 5. The species along with the taxonomic family they belong to, their ecological functional group and the source of the seeds are also given. Commercial seed stocks list the original collection where known.
 
 | Common name      | Species name            | Family         | Functional group (informal) | Seed source                                                     |
-| ---------------- | ----------------------- | -------------- | --------------------------- | --------------------------------------------------------------- |
+| ---------------- | ----------------------- | ------------------ | ---------------------- | --------------------------------------------------------------- |
 | Thale cress      | *Arabidopsis thaliana*  | Brassicaceae   | Herb                        | Laboratory stock                                                |
 | Field horsetail  | *Equisetum arvense*     | Equisetaceae   | Fern                        | Wild collected in Edinburgh (GPS coordinates: 55.9679, -3.2129) |
 | Red fescue       | *Festuca rubra*         | Poaceae        | Grass                       | Commerical: Emorsgate seeds (Yorkshire + Dorset)                |
@@ -510,7 +510,7 @@ Table 18: Plant names, attributes and collection sources for host species used i
 
 \newpage{}
 
-Table 19: *Euphrasia* species collections across both experiments in Chapter 7.
+Table 19: *Euphrasia* species collections across both experiments in Chapter 6.
 
 | Experiment | *Euphrasia* species | Location                | Grid Reference          |
 | ---------- | ------------------- | ----------------------- | ----------------------- |
@@ -708,7 +708,7 @@ Table 2. Germination of *Euphrasia* species in a reciprocal transplant experimen
 
 |                 |                   | **Transplant site** |        |                  |                  |
 | --------------- | ----------------- | ------------------- | ------ | ---------------- | ---------------- |
-| Species         | Population origin | Wirrvie Brecks      | Buness | Bird Observatory | North lighthouse |
+| Species         | **Population origin** | Wirrvie Brecks      | Buness | Bird Observatory | North lighthouse |
 | *E. arctica*    | FI Chapel         | 34                  | 30     | 17*              | 35               |
 |                 | School            | 24                  | 18     | 21*              | 32               |
 | *E. foulaensis* | South lighthouse  | 29                  | 45*    | 19               | 22*              |
